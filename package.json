@@ -29,9 +29,5 @@
     "@babel/core": "^7.15.8",
     "@babel/node": "^7.15.8",
     "@babel/preset-env": "^7.15.8"
-  },
-  "bugs": {
-    "url": "https://github.com/mannyhenri/node-docker/issues"
-  },
-  "homepage": "https://github.com/mannyhenri/node-docker#readme"
+  }
 }
